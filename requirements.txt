@@ -1,0 +1,10 @@
+numpy==1.24.3
+pandas==2.0.2
+scikit-learn==1.2.2
+scipy==1.8.0
+torch==2.0.1
+spacy==3.5.3
+pytextrank==3.2.4
+nltk==3.8.1
+gensim==3.8.3
+transformers==4.29.2
