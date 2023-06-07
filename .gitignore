@@ -1,2 +1,8 @@
 best_model.pt
 model_checkpoint.pth
+consumer_complaints.csv
+data.csv
+data.csv
+model1_no_textrank.pth
+model1_with_textrank.pth
+database.sqlite
