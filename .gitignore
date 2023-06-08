@@ -6,3 +6,5 @@ data.csv
 model1_no_textrank.pth
 model1_with_textrank.pth
 database.sqlite
+model2_no_textrank.pth
+model2_with_textrank.pth
