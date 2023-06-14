@@ -2,3 +2,5 @@
 *.pth
 *.pt
 *.sqlite
+results
+logs
